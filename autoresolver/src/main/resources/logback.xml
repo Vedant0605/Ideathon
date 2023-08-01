@@ -1,0 +1,29 @@
+<configuration>
+
+    <!-- Appender for Error Logs -->
+    <appender name="ERROR_FILE" class="ch.qos.logback.core.FileAppender">
+        <file>logs/solutions-error.log</file>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level [%thread] %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Appender for Debug Logs -->
+    <appender name="DEBUG_FILE" class="ch.qos.logback.core.FileAppender">
+        <file>logs/solution-debug.log</file>
+        <encoder>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} %-5level [%thread] %logger{36} - %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <!-- Root Logger for Error Logs -->
+    <logger name="com.ideathon.autoresolver" level="ERROR">
+        <appender-ref ref="ERROR_FILE" />
+    </logger>
+
+    <!-- Root Logger for Debug Logs -->
+    <root level="DEBUG">
+        <appender-ref ref="DEBUG_FILE" />
+    </root>
+
+</configuration>

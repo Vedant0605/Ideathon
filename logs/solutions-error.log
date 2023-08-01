@@ -1,0 +1,3 @@
+2023-08-01 18:22:42.822 ERROR [http-nio-4020-exec-1] c.i.a.controller.LoggingController - An ERROR Message
+2023-08-01 22:10:52.510 ERROR [http-nio-4020-exec-3] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-01 22:10:52.510 ERROR [http-nio-4020-exec-3] c.i.a.controller.LoggingController - Postgres database connectivity was lost
