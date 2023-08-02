@@ -1,3 +1,47 @@
 2023-08-01 18:22:42.822 ERROR [http-nio-4020-exec-1] c.i.a.controller.LoggingController - An ERROR Message
 2023-08-01 22:10:52.510 ERROR [http-nio-4020-exec-3] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
 2023-08-01 22:10:52.510 ERROR [http-nio-4020-exec-3] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:19:11.461 ERROR [http-nio-4020-exec-1] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:19:11.461 ERROR [http-nio-4020-exec-1] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:19:13.452 ERROR [http-nio-4020-exec-2] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:19:13.452 ERROR [http-nio-4020-exec-2] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:20:04.046 ERROR [http-nio-4020-exec-1] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:20:04.046 ERROR [http-nio-4020-exec-1] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:20:05.128 ERROR [http-nio-4020-exec-3] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:20:05.128 ERROR [http-nio-4020-exec-3] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:20:05.667 ERROR [http-nio-4020-exec-2] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:20:05.667 ERROR [http-nio-4020-exec-2] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:20:05.933 ERROR [http-nio-4020-exec-4] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:20:05.933 ERROR [http-nio-4020-exec-4] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:20:06.224 ERROR [http-nio-4020-exec-5] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:20:06.224 ERROR [http-nio-4020-exec-5] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:20:06.426 ERROR [http-nio-4020-exec-6] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:20:06.426 ERROR [http-nio-4020-exec-6] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:20:06.730 ERROR [http-nio-4020-exec-9] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:20:06.730 ERROR [http-nio-4020-exec-9] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:20:06.900 ERROR [http-nio-4020-exec-8] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:20:06.900 ERROR [http-nio-4020-exec-8] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:21:07.121 ERROR [http-nio-4020-exec-1] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:21:07.127 ERROR [http-nio-4020-exec-1] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:21:09.543 ERROR [http-nio-4020-exec-2] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:21:09.543 ERROR [http-nio-4020-exec-2] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:21:17.362 ERROR [http-nio-4020-exec-3] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:21:17.362 ERROR [http-nio-4020-exec-3] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:21:17.890 ERROR [http-nio-4020-exec-4] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:21:17.890 ERROR [http-nio-4020-exec-4] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:21:20.579 ERROR [http-nio-4020-exec-8] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:21:20.579 ERROR [http-nio-4020-exec-8] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:22:20.309 ERROR [http-nio-4020-exec-3] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:22:20.309 ERROR [http-nio-4020-exec-3] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:27:22.063 ERROR [http-nio-4020-exec-1] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:27:22.064 ERROR [http-nio-4020-exec-1] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:27:22.965 ERROR [http-nio-4020-exec-2] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:27:22.965 ERROR [http-nio-4020-exec-2] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:27:23.432 ERROR [http-nio-4020-exec-3] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:27:23.432 ERROR [http-nio-4020-exec-3] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 00:27:23.591 ERROR [http-nio-4020-exec-7] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 00:27:23.591 ERROR [http-nio-4020-exec-7] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 15:48:37.038 ERROR [http-nio-4020-exec-5] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 15:48:37.038 ERROR [http-nio-4020-exec-5] c.i.a.controller.LoggingController - Postgres database connectivity was lost
+2023-08-02 16:26:33.309 ERROR [http-nio-4020-exec-2] c.i.a.controller.LoggingController - Connectivity to the hbase database was lost
+2023-08-02 16:26:33.309 ERROR [http-nio-4020-exec-2] c.i.a.controller.LoggingController - Postgres database connectivity was lost
